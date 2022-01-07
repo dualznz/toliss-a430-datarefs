@@ -24,3 +24,7 @@ You can then fire up x-plane 11 then into the ToLiss A340, once loaded into the 
 ## Contributing
 ---
 If i have missed any command press datarefs when new versions of ToLiss A340 comes out you can submit an issue over on the issues tab, please include a screenshot of where the button or switch is within the plane and i will try and add it if it is contained within the DataRef inputs.
+
+## Screenshots
+---
+![](./images/datafields.jpg)
