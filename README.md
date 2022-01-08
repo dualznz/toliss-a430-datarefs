@@ -6,7 +6,7 @@ Output feeds are shown in Spad.neXt under X-Plane/Airbusfbw & X-Plane/Toliss_Air
 
 Variables are [0,1] unless using [toggle].
 
-I have provided a complete feed of the respective datarefs.txt & commands.txt but if you only need a few feeds you can find them under /variables in this repo.
+I have provided a complete feed of the respective datarefs.txt & commands.txt but if you only need a few feeds you can take what you need to ingest and create [commands.txt, datarefs.txt] with your selections.
 
 ## Installation
 ---
