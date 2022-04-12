@@ -4,6 +4,7 @@ AirbusFBW/AbrkMed
 AirbusFBW/ACP1/VHF1Press
 AirbusFBW/ACP1/VHF2Press
 AirbusFBW/ACP1/VHF3Press
+AirbusFBW/ACP1/VHF3Press
 AirbusFBW/ACP2/VHF2Press
 AirbusFBW/ACP2/VHF3Press
 AirbusFBW/ACP3/VHF2Press
@@ -608,6 +609,7 @@ toliss_airbus/nws_disconnect_hold
 toliss_airbus/park_brake_hold
 toliss_airbus/park_brake_release
 toliss_airbus/park_brake_set
+toliss_airbus/park_brake_toggle
 toliss_airbus/reinstatePopups
 toliss_airbus/spd_pull
 toliss_airbus/spd_push
